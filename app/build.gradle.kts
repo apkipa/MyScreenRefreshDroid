@@ -11,7 +11,7 @@ android {
     defaultConfig {
         applicationId = "com.apkipa.myscreenrefreshdroid"
         minSdk = 21
-        // NOTE: Important for writing to private settings
+        // NB: Important for writing to private settings
         //noinspection ExpiredTargetSdkVersion
         targetSdk = 21
         versionCode = 1
